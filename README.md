@@ -149,6 +149,9 @@ Bu proje [MIT](LICENSE) lisansı altında lisanslanmıştır.
 
 ## 📞 İletişim
 
-Önder AKÖZ - [@onderakoz](https://linkedin.com/in/onderakoz)
+Önder AKÖZ - [@onderakoz]
+www.linkedin.com/in/mustafa-önder-aköz-23174592
+
+
 
 Proje Linki: https://github.com/onder7/Excel-Migrate/
